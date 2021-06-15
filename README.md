@@ -268,6 +268,8 @@ Note: When viewing screenshots it is best to right click on open in new tab.
 
 
 ## References
+- https://azure.microsoft.com/en-us/resources/whitepaper-adf-on-azuredevops/
 - https://docs.microsoft.com/en-us/azure/data-factory/source-control
 - https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-deployment
+- https://docs.microsoft.com/en-us/azure/devops/pipelines/apps/cd/azure/build-data-pipeline?view=azure-devops
 - https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema
